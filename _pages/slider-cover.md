@@ -1,0 +1,51 @@
+---
+ID: 32
+post_title: Slider Cover
+author: limefriends
+post_date: 2016-08-09 14:23:35
+post_excerpt: ""
+layout: page
+permalink: >
+  http://limefriends.cafe24.com/demos/shop-demos/slider-cover/
+published: true
+---
+[ux_slider infinitive="false" parallax="2" hide_nav="true" nav_size="normal" nav_style="simple" bullets="false"]
+
+[ux_banner height="100%" bg="19" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="30% 57%"]
+
+[text_box width="45" width__sm="78" scale__sm="125" position_x="5" position_y="80" text_align="left"]
+
+<h2 class="uppercase"><span style="font-size: 100%;"><strong>Welcome to our Fashion shop</strong></span></h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="Click me!" color="white"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" bg="19" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="62% 18%"]
+
+[text_box width="45" width__sm="78" scale__sm="125" position_x="5" position_y="80" text_align="left"]
+
+<h2 class="uppercase"><strong>Welcome to our Fashion shop</strong></h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="Click me!" color="white"]
+
+
+[/text_box]
+
+[/ux_banner]
+[ux_banner height="100%" bg="19" bg_overlay="rgba(0, 0, 0, 0.17)" bg_pos="74% 14%"]
+
+[text_box width="45" width__sm="78" scale__sm="125" position_x="5" position_y="80" text_align="left"]
+
+<h2 class="uppercase"><strong>Welcome to our Fashion shop</strong></h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+[button text="Click me!" color="white"]
+
+
+[/text_box]
+
+[/ux_banner]
+
+[/ux_slider]
