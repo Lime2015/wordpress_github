@@ -9,4 +9,4 @@ permalink: >
   http://limefriends.cafe24.com/welcomewiki/
 published: true
 ---
-위키 테스트[welcomewikilite wikiurl="https://ko.wikipedia.org/wiki/%EB%B0%98%EB%82%98%EC%B9%98%EB%B2%95%EC%95%88" sections="" settings=""]
+[welcomewikilite wikiurl="https://ko.wikipedia.org/wiki/%EB%B0%98%EB%82%98%EC%B9%98%EB%B2%95%EC%95%88" sections="" settings=""]
