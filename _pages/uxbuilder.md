@@ -1,11 +1,11 @@
 ---
 ID: 354
-post_title: 자동 임시글
+post_title: ux builder test
 author: limefriends
 post_date: 2017-03-17 18:35:58
 post_excerpt: ""
 layout: page
-permalink: 'http://limefriends.cafe24.com/%ec%9e%90%eb%8f%99-%ec%9e%84%ec%8b%9c%ea%b8%80/'
+permalink: http://limefriends.cafe24.com/uxbuilder/
 published: true
 ---
 [ux_slider]
